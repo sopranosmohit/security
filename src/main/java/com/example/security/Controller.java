@@ -10,7 +10,7 @@ public class Controller {
     @RequestMapping("/")
     public String getME(){
 
-        return "<h1>Hello Peopleeesss ssss</h1>";
+        return "<h1>Hello Pepleeesss ssss</h1>";
     }
 
     @RequestMapping("/user")
